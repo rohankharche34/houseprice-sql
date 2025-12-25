@@ -1,4 +1,4 @@
-# Houseprice_Bangladesh_DataAnalysis
+# houseprice-sql
 This dataset has data about the housing prices at different locations in Bangladesh. 
 Data cleaning is performed on the data using SQL. 
 The houseprice_staging2.csv is the final cleaned file. 
